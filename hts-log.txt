@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 23 Jun 2024 10:51:03 at https://misterios-da-medicina.online/?utm_source=facebook&utm_medium=%7B%7Bplacement%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://misterios-da-medicina.online/?utm_source=facebook&utm_medium=%7B%7Bplacement%7D%7D&utm_campaign=%7B%7Badset.name%7D%7D&utm_content=%7B%7Bad.name%7D%7D -O1 "C:\Meus Sites\seila" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:51:04	Warning: 	Note: due to https://misterios-da-medicina.online remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+10:51:20	Warning: 	File not parsed, looks like binary: https://misterios-da-medicina.online/wp-content/uploads/2024/05/bbb.avif
+10:51:20	Warning: 	File not parsed, looks like binary: https://misterios-da-medicina.online/wp-content/uploads/2024/05/transferir-1.avif
+10:51:20	Error: 	"Not Found" (404) at link https://misterios-da-medicina.online/a (from https://connect.facebook.net/en_US/fbevents.js)
+10:51:20	Error: 	"Not Found" (404) at link https://misterios-da-medicina.online/POST (from https://connect.facebook.net/en_US/fbevents.js)
+10:51:20	Error: 	"Not Found" (404) at link https://misterios-da-medicina.online/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+10:51:20	Error: 	"Not Found" (404) at link https://misterios-da-medicina.online/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+10:51:20	Error: 	"Not Found" (404) at link https://misterios-da-medicina.online/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 56 links scanned, 50 files written (4362166 bytes overall) [3967716 bytes received at 233395 bytes/sec], 924568 bytes transferred using HTTP compression in 8 files, ratio 23%, 11.6 requests per connection
+(5 errors, 3 warnings, 0 messages)
